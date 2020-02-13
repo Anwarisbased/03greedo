@@ -125,13 +125,13 @@ Cannabis brands **NEED** to become _data driven_ and develop _strong emotional l
 
 Define your business objectives and then design a program that will enable you to achieve those objectives.
 
- Collect/Leverage Data
+ **Collect/Leverage Data**
 
- Create Authentic Relationships
+ **Create Authentic Relationships**
 
- Drive Engagement Beyond Transactions
+ **Drive Engagement Beyond Transactions**
 
- Retain & Increase spend
+ **Retain & Increase spend**
 
 ---
 
