@@ -57,15 +57,35 @@ Cannabis brands **NEED** to become _data driven_ and develop _strong emotional l
 ---
 
 {{< slide background="#FEA58A">}}
+{{% section %}}
 ### And...
-For brands with emotionally loyal customers:
-- {{% fragment %}}**60%** Tell friends & family.{{% /fragment %}}
-- {{% fragment %}}**52%** Join a loyalty program.{{% /fragment %}}
-- {{% fragment %}}**39%** Increase brand spend despite cheaper options.{{% /fragment %}}
-- {{% fragment %}}**37%** Leave feedback & online reviews.{{% /fragment %}}
-- {{% fragment %}}**31%** Participate in a contest or promotion.{{% /fragment %}}
+**For brands with emotionally loyal customers:**
 
 ---
+
+
+**60% Tell friends & family.:**
+
+---
+
+**52% Join a loyalty program.**
+
+---
+
+**39% Increase brand spend despite cheaper options.**
+
+---
+
+**37% Leave feedback & online reviews.**
+
+---
+
+**31% Participate in a contest or promotion.**
+
+{{% /section %}}
+
+---
+
 {{< slide background="#FFE01B">}}
  **Loyalty programs can significantly impact your customer lifetime value (CLV) if data is harnessed in a way to make meaningful brand-consumer relationships.**
 
